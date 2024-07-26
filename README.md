@@ -1,5 +1,5 @@
 # JavaClassBPer
-just a quick program to make java class boilerplate for your java project
+just a quick program to make java class boilerplate for your java project (this is typically useful in any tree structure project).
 
 1.Run the gui program.
 
@@ -7,4 +7,7 @@ just a quick program to make java class boilerplate for your java project
 
 3.Choose directory.
 
-4.Generate class boilerplate code for your project.
+4.Generate class boilerplate code for classes in separate java files.
+
+
+
